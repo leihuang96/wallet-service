@@ -1,4 +1,4 @@
-package com.wallet.util;
+package com.wallet.infrastructure.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
